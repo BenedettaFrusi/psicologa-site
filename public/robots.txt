@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ilmiosito.netlify.app/sitemap.xml
